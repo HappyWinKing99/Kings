@@ -1,0 +1,25 @@
+h1{
+    color: rgb(255, 255, 255);
+}
+
+
+h1 {
+    color: rgb(249, 249, 249); 
+    font-family: Arial, sans-serif; 
+    
+    padding: 10px; 
+    margin: 10px; 
+}
+
+
+body{
+    border: 5px solid black;  
+    color: rgb(0, 0, 0); 
+    font-family: Arial, sans-serif; 
+}
+
+.green-text {
+    color: green; /* Example font color */
+}
+
+/* Add more style definitions as needed */
